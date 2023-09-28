@@ -1,3 +1,5 @@
 Hello World!
 
 I am learning how to commit files to my GitHub respository!
+
+For this line, I am testing how to send a message to Git as I commit!
